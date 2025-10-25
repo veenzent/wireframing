@@ -45,3 +45,52 @@ Outlines **the interactive features** and behaviors of elements in the interface
 ---
 
 Each of these elements works together to create a **cohesive and user-centered layout**, ensuring that the design supports both functionality and user experience.
+
+## Types of Wireframes
+
+Wireframes can vary in their level of detail and complexity. The two main types are **Low-Fidelity** and **High-Fidelity** wireframes. Each serves a unique purpose at different stages of the design process.
+
+### 🧩 Low-Fidelity Wireframes
+**Definition:**  
+Low-fidelity wireframes are **simple sketches or basic digital layouts** that focus on the overall structure, layout, and functionality rather than visual design. They often use simple shapes, grayscale colors, and placeholder text (like “Lorem Ipsum”) to represent content.  
+
+**When to Use:**  
+- Early in the design process, during brainstorming and concept validation.  
+- When the goal is to communicate general ideas or page structure to stakeholders.  
+- To encourage feedback on layout and navigation without getting distracted by design details.  
+
+**Example:**  
+A quick black-and-white sketch showing the position of a header, sidebar, and main content area.  
+
+**Benefits:**  
+- Fast and inexpensive to create.  
+- Easy to adjust based on feedback.  
+- Helps clarify structure and functionality before detailed design begins.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+**Definition:**  
+High-fidelity wireframes are **detailed and refined versions** that closely resemble the final design. They include actual spacing, typography, buttons, colors, and sometimes even interactivity.  
+
+**When to Use:**  
+- Later in the design process, after the layout and structure have been approved.  
+- To test user interactions and get closer feedback on the look and feel of the product.  
+- As a reference for developers before implementation begins.  
+
+**Example:**  
+A digital mockup showing the final color scheme, fonts, icons, and interactive buttons for an app’s login screen.  
+
+**Benefits:**  
+- Provides a realistic preview of the final product.  
+- Helps identify usability issues with detailed design elements.  
+- Useful for stakeholder presentations and development handoff.
+
+---
+
+## What Type of Wireframe Is This?
+
+The wireframe shown here is a **Low-Fidelity Wireframe**.  
+It emphasizes **layout, structure, and navigation flow** rather than detailed visuals or styling.  
+This type of wireframe is ideal for **early-stage planning** and helps designers and stakeholders focus on user experience and functionality before moving to high-fidelity design.
+
