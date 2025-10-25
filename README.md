@@ -161,3 +161,35 @@ When everyone understands the intended flow and layout, development can progress
 Wireframing isn’t just a design task — it’s a **strategic communication and planning tool** in software development.  
 It ensures that every stakeholder has a shared understanding of how the application will function, paving the way for smoother design, development, and delivery.
 
+## 🧩 Wireframing in Practice
+
+Wireframing is not just a theoretical step — it’s a **practical tool** that helps teams identify and fix usability issues before any code is written. Here’s an example of how it plays out in a real-world project.
+
+### 🧠 Real-World Scenario: Property Booking Application
+
+During the early design phase of a **property booking platform**, the UX designer created a low-fidelity wireframe in **Figma** to map out the user journey — from searching for properties to completing a booking.
+
+When the development and QA teams reviewed the wireframe, they quickly noticed a **usability issue**:
+- The *“Book Now”* button appeared **below the property details**, requiring users to scroll unnecessarily on smaller screens.
+- Additionally, there was **no clear confirmation step** before finalizing a booking, which could lead to accidental reservations.
+
+### 🛠️ How the Issue Was Resolved
+
+Because the issue was identified **at the wireframe stage**, the team was able to make simple adjustments:
+- The *“Book Now”* button was moved to a **fixed position** within the viewport, ensuring visibility at all times.
+- A **confirmation modal** was added to prevent accidental clicks and enhance user control.
+
+These adjustments took less than an hour to implement in the wireframe — changes that could have taken **days** if discovered after development began.
+
+### 🚀 Impact on the Final Product
+
+The updated design led to:
+- A **smoother user experience**, with higher booking completion rates.
+- **Fewer revisions** during coding and QA, saving significant time and cost.
+- Improved collaboration between design and engineering teams, as the wireframe provided a shared visual understanding of the user flow.
+
+### 🧭 Summary
+
+Wireframing plays a critical role in **ensuring a user-friendly design**.  
+It helps teams visualize and test ideas early, catch usability flaws before development, and refine the user experience efficiently.  
+By encouraging feedback and iteration at the conceptual stage, wireframing ultimately leads to **better-designed, more intuitive software** that meets both user needs and business goals.
