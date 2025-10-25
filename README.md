@@ -94,3 +94,37 @@ The wireframe shown here is a **Low-Fidelity Wireframe**.
 It emphasizes **layout, structure, and navigation flow** rather than detailed visuals or styling.  
 This type of wireframe is ideal for **early-stage planning** and helps designers and stakeholders focus on user experience and functionality before moving to high-fidelity design.
 
+## 🧰 Wireframing Tools
+
+Wireframing tools make it easier to visualize, design, and iterate on layout structures efficiently. These tools allow designers to move from rough sketches to interactive prototypes while collaborating with team members in real time.
+
+### 🔹 Popular Wireframing Tools
+
+- **Figma**  
+  Figma is a cloud-based design and prototyping tool widely used for creating wireframes, UI designs, and interactive prototypes.  
+  **Key Features:**  
+  - Real-time collaboration — multiple users can work on the same design simultaneously.  
+  - Components and styles — reuse design elements to maintain consistency across screens.  
+  - Easy prototyping — link frames together to simulate user flows.  
+  - Cross-platform accessibility — works directly in the browser, with no installation required.  
+  **Why It’s Useful:**  
+  Figma’s intuitive interface and collaborative features make it ideal for teams working remotely or in agile environments. It allows quick feedback loops, reducing design time and improving workflow efficiency.
+
+- **Adobe XD**  
+  A powerful tool for designing wireframes, prototypes, and UI layouts. It integrates well with other Adobe products and supports interactive design and testing.
+
+- **Sketch**  
+  A macOS-based design tool known for its simplicity and efficiency in creating wireframes and UI mockups. It’s popular among designers for its extensive plugin ecosystem.
+
+- **Balsamiq**  
+  Focuses on low-fidelity wireframing. Its hand-drawn style helps stakeholders focus on structure and functionality rather than visual details.
+
+- **Miro**  
+  A collaborative online whiteboard that’s great for brainstorming and creating low-fidelity wireframes and flow diagrams.
+
+---
+
+### 🌟 Recommended Tool: Figma
+Among all the tools available, **Figma** stands out as one of the most versatile and beginner-friendly platforms for wireframing.  
+Its **cloud-based collaboration**, **easy learning curve**, and **prototyping capabilities** make it a top choice for both new and experienced designers. Whether you’re sketching out a simple layout or developing a full design system, Figma helps bring ideas to life quickly and effectively.
+
